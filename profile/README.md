@@ -139,7 +139,7 @@ Pour utiliser Rudi en production veuillez vous référer au [guide d'installatio
 Nous accueillons et encourageons les contributions de la communauté. Voici comment vous pouvez participer :
 - 🛣️ [Feuille de route](https://github.com/orgs/rudi-platform/projects/2)
 - 🐞 Signaler un bug : section issue de chaque dépôt de code
-- ✨ [Contribuer au code](CONTRIBUTING.md)
+- ✨ [Contribuer](https://github.com/rudi-platform/.github/blob/main/CONTRIBUTING.md)
 - 🗣️ [Participer aux discussions](https://github.com/orgs/rudi-platform/discussions)
 
 <br>
