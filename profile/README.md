@@ -123,6 +123,17 @@ Stocke toutes les données des organisations, comme les livres sur les étagère
 Conserve les métadonnées, c'est-à-dire les informations qui décrivent chaque jeu de données, comme le titre, la date de publication, le sujet, etc.
 
 
+<br>
+
+## Installation
+Pour installer Rudi en local, vous trouverez toutes les informations nécessaires sur le **dépôt de code [Rudi Out of the Box 🎁](https://github.com/rudi-platform/rudi-out-of-the-box)**
+<br>
+
+Pour utiliser Rudi en production veuillez vous référer au [guide d'installation](). 
+
+<br>
+
+
 ## Contribuer à Rudi
 
 Nous accueillons et encourageons les contributions de la communauté. Voici comment vous pouvez participer :
