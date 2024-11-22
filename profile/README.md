@@ -146,7 +146,7 @@ Nous accueillons et encourageons les contributions de la communauté. Voici comm
 
 ## Contacts
 
-Pour contacter les créeateurs du projet chez Rennes Métropole, n'hésitez pas à nous contacter à l'adresse [contact@rudi.bzh](mailto:contact@rudi.bzh).
+Pour contacter les créeateurs du projet chez Rennes Métropole, n'hésitez pas à nous contacter à l'adresse [rudi@rennesmetropole.fr](mailto:rudi@rennesmetropole.fr).
 
 Suivez-nous sur [LinkedIn](https://www.linkedin.com/company/portail-rudi/about/) pour les dernières actualités et mises à jour du projet.
 
