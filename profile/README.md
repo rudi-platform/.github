@@ -7,7 +7,7 @@
 <h2 align="center" >Plateforme de partage de données à l'échelle locale</h3>
 <p align="center">Open source, sécurisée, conçue pour les données ouvertes et à accès restreint.</p>
 
-<p align="center"><a href="https://rudi.rennesmetropole.fr/">🌐 Instance de Rennes Métropole</a> · <a href="doc.rudi.bzh">📚 Documentation</a> ·  <a href="https://blog.rudi.bzh/">📰 Blog</a><p>
+<p align="center"><a href="https://rudi.rennesmetropole.fr/">🌐 Instance de Rennes Métropole</a> · <a href="doc.rudi.fr">📚 Documentation</a> ·  <a href="https://blog.rudi.bzh/">📰 Blog</a><p>
 <div align="center">
   <a href="https://indd.adobe.com/view/publication/a4f45cc2-760c-4cad-a6e8-139236ace5c0/n7s8/publication-web-resources/pdf/expo_rudi_web.pdf" 
      aria-label="Cliquez pour voir la publication complète en PDF"
