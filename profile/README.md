@@ -1,13 +1,13 @@
 <br>
 <p align="center">
   <a href="https://rudi.rennesmetropole.fr/">
-  <img src="https://blog.rudi.bzh/wp-content/uploads/2020/11/logo_bleu_orange.svg" width=100px alt="Rudi logo" />  </a>
+  <img src="https://rudi.fr/files/PageTitre_logo_blanc_orange_20241128162507_20241128162520.png" width=100px alt="Rudi logo" />  </a>
 </p>
 
 <h2 align="center" >Plateforme de partage de données à l'échelle locale</h3>
 <p align="center">Open source, sécurisée, conçue pour les données ouvertes et à accès restreint.</p>
 
-<p align="center"><a href="https://rudi.rennesmetropole.fr/">🌐 Instance de Rennes Métropole</a> · <a href="http://demo.rudi.fr">🌐 Instance de test publique</a> · <a href="http://doc.rudi.fr">📚 Documentation</a> ·  <a href="https://blog.rudi.bzh/">📰 Blog</a><p>
+<p align="center"><a href="https://rudi.rennesmetropole.fr/">🌐 Instance de Rennes Métropole</a> · <a href="http://demo.rudi.fr">🌐 Instance de test publique</a> · <a href="http://doc.rudi.fr">📚 Documentation</a> ·  <a href="https://rudi.fr/">📰 Blog</a><p>
 <div align="center">
   <a href="https://indd.adobe.com/view/publication/a4f45cc2-760c-4cad-a6e8-139236ace5c0/n7s8/publication-web-resources/pdf/expo_rudi_web.pdf" 
      aria-label="Cliquez pour voir la publication complète en PDF"
@@ -146,7 +146,7 @@ Nous accueillons et encourageons les contributions de la communauté. Voici comm
 
 ## Contacts
 
-Pour contacter les créeateurs du projet chez Rennes Métropole, n'hésitez pas à nous contacter à l'adresse [contact@rudi.bzh](mailto:contact@rudi.bzh).
+Pour contacter les créeateurs du projet chez Rennes Métropole, n'hésitez pas à nous contacter à l'adresse [rudi@rennesmetropole.fr](mailto:rudi@rennesmetropole.fr).
 
 Suivez-nous sur [LinkedIn](https://www.linkedin.com/company/portail-rudi/about/) pour les dernières actualités et mises à jour du projet.
 
